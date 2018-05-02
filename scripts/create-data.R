@@ -1,6 +1,7 @@
 # Clear R
 rm(list=ls())
 
+#install packages
 install.packages("gapminder")
 gapminder::gapminder
 

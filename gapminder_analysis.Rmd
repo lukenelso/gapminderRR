@@ -18,7 +18,7 @@ output:
 > All Gapminder activities are governed by the board. We do not award grants. Gapminder Foundation is registered at Stockholm County Administration Board.
 
 ![](assets/screenshot2016.jpg)
-<img src="assets/screenshot2016.jpg" width="200px" />
+<img src="assets/screenshot2016.jpg" width="205px" />
 
 
 ## Installation
