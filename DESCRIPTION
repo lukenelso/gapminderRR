@@ -1,0 +1,13 @@
+Package: gapminderRR
+Version: 0.0.0.9000
+Title: Analysing gapminder data to teach reproducible research in R
+Description: Analysing gapminder data to teach reproducible research in R. In 
+    particular, we cover using r package development tools and conventions using usethis, 
+    devtools and rrtools, literate programming using rmarkdown and version control through 
+    git and github.
+Authors@R: person("Luke", "Nelson", email = "ldsnelson1@sheffield.ac.uk", role = c("aut", "cre"))
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+ByteCompile: true
+RoxygenNote: 6.0.1
